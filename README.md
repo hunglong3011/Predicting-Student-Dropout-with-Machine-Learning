@@ -38,7 +38,7 @@ I tested Logistic Regression, Decision Trees, and Random Forest, but **Ensemble 
 
 1.  **Clone the repo**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+    git clone [https://github.com/hunglong3011/Predicting-Student-Dropout-with-Machine-Learning.git](https://github.com/hunglong3011/Predicting-Student-Dropout-with-Machine-Learning.git)
     ```
 
 2.  **Install dependencies**
@@ -50,4 +50,4 @@ I tested Logistic Regression, Decision Trees, and Random Forest, but **Ensemble 
     Open `Project 2.ipynb` in Jupyter Notebook or Google Colab to see the full analysis and training process.
 
 ---
-**Author:** Nguyen Hung Long
+**Author:** _Nguyen Hung Long_
