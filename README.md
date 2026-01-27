@@ -1,9 +1,5 @@
 # Student Dropout Prediction
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Model](https://img.shields.io/badge/Model-LightGBM-green)
-![Status](https://img.shields.io/badge/Status-Completed-success)
-
 ## Overview
 Not every dropout becomes the next Bill Gates. In reality, student dropout rates are a major challenge for universities.
 
